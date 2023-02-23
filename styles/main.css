@@ -1,0 +1,11 @@
+.js_card_click{
+    border: solid 3px;
+    margin: 10px;
+}
+.js_card_keyUp{
+    border: solid 3px;
+}
+.js_section_card{
+    display: flex;
+    margin: 10px;
+}
